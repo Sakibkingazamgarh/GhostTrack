@@ -20,7 +20,7 @@ pkg install python3
 
 ### Usage Tool
 ```
-git clone https://github.com/HunxByts/GhostTrack.git
+git clone https://github.com/Sakibazamgarh/GhostTrack.git
 cd GhostTrack
 pip3 install -r requirements.txt
 python3 GhostTR.py
@@ -49,5 +49,5 @@ on this menu you can search for information from the target username on social m
 
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/Sakibazamgarh">Sakib king</a></strong>
 </details>
